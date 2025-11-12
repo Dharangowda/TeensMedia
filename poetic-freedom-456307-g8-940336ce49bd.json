@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poetic-freedom-456307-g8",
+  "private_key_id": "940336ce49bdc9c24aade72c6b85168446584988",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDj45M323JP7i2z\n+Wl+P++LBJWvTW+2hU+L9h3qs/ucfg3JBuje8UdKjSyTt93tEsMGbBHNCfXY84Kw\nWKa+i4/njfb0gngurPgmQe8W9lRvPphnm5USeBFuvU5g5DfgQwVH7xtD/mjlyVxX\nV7b4oXqWT+5hvE2wE908l7KWgQxQWGlUfANiC0xewYtlaPK9mQfMkMB65vtOoniV\nrRsx+TtiiEHyyuK3d/K5mTCxOOefFxEiBgMkhaMLBLDa+idOae4d2pW1iXNP352Y\ngklz3uiUN+44Zjk7Nr8hx2WPGCZeeL+/In07YjpTXqK/Wc94QS7K43XilGG7iGGW\n6UEgeBZ1AgMBAAECggEAI0od2sEsJd3iTJkg5vYLqDbLidwEoqUTjmmhybNEEWsh\nGLJDOX2aO/Hkp0i1IH3j9DNOsQu2eyQqZsMzqb9+8gKf7Xk5bIZIidQdVtb1Ivef\nLjF/l4k/BIENiXTjL41GshRVio/zuocWD53RAxYudOcSfnwPI7x6aWRXDstpFr/E\nsKo66co9Kw4ytEFYDf48FJQRzKB1HdzMr+F79o4cPdDZ3LUsL87S7iK3ZoF9WapF\n5EkOwlfPKa0gKn9/kxwRtyec2a+AJMbFPXEHCYE4O6InZBn8gTT1WJ3FvnO5M1fe\nI8oR8PRlXMGo8Z9hnaI9Zb6GAqA4l4VNR7qjlnCgOQKBgQDzjryLCQSRELARi/wR\nxOOsak7JQVXeJ5AxsSi/vhyco+I9DcBlXYeBpguoohPrWnt1DZRvlmJzoKAgpad7\ncDPe1cgV3IxOKl48mNB2X1GRUBHbFvPcuSG59wqrTOrKHzRO9d+l2zX3Oa7FiMAh\naK8Ot2xrYeT4rHLDnCPBSqnmQwKBgQDvh+xqNFZAEs43JJyDN/LWOc9RKNyGuDOG\nwxB6Qnx52dBA/eL/lqOA8aR/d/lQ8cL9GQ+kuSx7AK0QXFiWyAn6rxMN4cq7qlnK\nxS7G7Nu63dfeRPqtwMEoiwjqLil3tyj1V/7gC0YePidAzYWJNOybRnjQHrBN+Urw\neREOmSRw5wKBgBAvRQIsODx3kmuoFLkNj1+OtOuUxuL7WA6lSiLrvDUAgvExr75M\np8uKwC2Vj6NNIPUXUOzVXnd2jg19VJLUUu4U4LXrMPukvxxhv0COdvokCvu3G79o\nIgCclP3rH5MM3cn9dr4rwftKvv1rZ/EQZsmgkLjWCYQo2Xt8LbgTgRTHAoGARCgR\nBUdPI3w2YUpxnoTU/FAGxbkyxsKzJq1qit9QO/vWXiff54odjBs2C28/6eBg81Om\nN+DY30cZ94XPT1gsPsCCU3jkDvIyCpiA7umGvG1Td1N5YOdwDvFA4CGyevYLGYSo\naWfL098rnCzeymPcz3IF/nI9CHLe9/369IRu8hECgYAorYQXopIEWgdXcc78o4/p\nx1sapE6EXvpwjFb+fWjbQ9OnGCR+EaFP6dCTkhEytY7nagP1lskGBkX41AIO8IHJ\nIgVua3iCwIMlymk22DNYWRsvrldZXr9jKMpQQ+3fsFbWKtZUAE2xm25FOJMQQenE\nNb4lvEsctpgpfKn7n9B/iw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nudiity-detection-service-pack@poetic-freedom-456307-g8.iam.gserviceaccount.com",
+  "client_id": "110722812691468959826",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nudiity-detection-service-pack%40poetic-freedom-456307-g8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
